@@ -1,8 +1,8 @@
-# BMI Analysis and Visualization
+# BMI Analysis and Visualization 🧮
 
-This project calculates Body Mass Index (BMI) for a sample dataset, categorizes it, and visualizes the results using Seaborn and Matplotlib.
+### This project calculates Body Mass Index (BMI) for a sample dataset, categorizes it, and visualizes the results using Seaborn and Matplotlib.
 
-## Features
+## Features 📌:
 
 - Calculate BMI using weight and height
 - Categorize BMI into:
@@ -10,14 +10,14 @@ This project calculates Body Mass Index (BMI) for a sample dataset, categorizes 
   - Normal
   - Overweight
   - Obese
-- Visualize:
+- Visualize📊 :
   - BMI category count
   - BMI distribution by gender
   - BMI category distribution by gender
 
-## Requirements
+## Requirements ⚙️
 
-- Python
+- Python 🐍
 - pandas
 - matplotlib
 - seaborn
@@ -27,6 +27,6 @@ Install using:
 ```bash
 pip install pandas matplotlib seaborn
 ```
-#How to run
+# How to run
 python bmi_analysis.py
 
